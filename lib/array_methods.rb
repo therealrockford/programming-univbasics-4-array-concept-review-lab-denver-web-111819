@@ -12,8 +12,12 @@ end
 #end 
 
 def find_max_value(array)
-  return array.find_max_value
-end
+  x = 0 
+  array.length.times { |index|
+
+#def find_max_value(array)
+#  array.find_max_value
+#end
 
 def find_min_value(array)
   return array.find_min_value
