@@ -28,3 +28,7 @@ end
 def find_min_value(array)
   return array.find_min_value
 end
+
+def find_min_value(array)
+  return array.find_min_value
+end
