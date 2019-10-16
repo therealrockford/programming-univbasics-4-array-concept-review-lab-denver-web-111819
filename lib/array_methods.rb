@@ -7,7 +7,8 @@ def find_element_index(array, value_to_find)
   nil 
 end
 
-#
+#def find_element_index(array, value_to_find)
+  
 
 def find_max_value(array)
   return array.find_max_value
